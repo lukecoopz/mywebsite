@@ -1803,5 +1803,11 @@ form label {
   opacity: 0;
 }
 
+.center-block {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
 
